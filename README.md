@@ -13,13 +13,34 @@
 - Thiago
 - Regis
 
-## Módulos Implementados
-- Módulo 1: Convite e Cadastro de Alunos
-- Módulo 2: Seleção de Casas
-- Módulo 3: Gerenciamento de Torneios e Competições
-- Módulo 4: Controle Acadêmico e Disciplinar
-- Módulo 5: Gerenciamento de Professores e Funcionários
-- Módulo 6: Sistema de Alertas e Comunicação
+## 🧩 Módulos Implementados
+
+### 1. Convite e Cadastro de Alunos
+- Cadastro com nome, e-mail e data de nascimento.
+- Verificação de idade mínima (11 anos).
+- Confirmação de recebimento da carta de Hogwarts.
+
+### 2. Seleção de Casas
+- Chapeu Seletor distribui automaticamente os alunos com base em suas características.
+- Casas disponíveis: Grifinória, Sonserina, Corvinal e Lufa-Lufa.
+
+### 3. Gerenciamento de Torneios e Competições
+- Criação de torneios e desafios com pontuação.
+- Alunos podem se inscrever e participar.
+- Ranking das casas baseado em desempenho.
+
+### 4. Controle Acadêmico e Disciplinar
+- Professores podem registrar notas por disciplina.
+- Alunos acessam boletins individuais.
+- Aplicação de bônus e penalidades que afetam a pontuação da casa.
+
+### 5. Gerenciamento de Professores e Funcionários
+- Cadastro de professores com disciplinas e turmas.
+- Cronograma individual de aulas para cada professor.
+
+### 6. Sistema de Alertas e Comunicação
+- Envio de mensagens e avisos entre professores, alunos e administradores.
+- Agendamento de comunicados importantes.
 
 ## Instruções de Execução
 - Execute com `php app.php` no terminal
