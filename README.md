@@ -13,7 +13,7 @@
 - Thiago
 - Regis
 
-## 🧩 Módulos Implementados
+## Módulos Implementados
 
 ### 1. Convite e Cadastro de Alunos
 - Cadastro com nome, e-mail e data de nascimento.
@@ -43,4 +43,10 @@
 - Agendamento de comunicados importantes.
 
 ## Instruções de Execução
+
+1. Clone o projeto:
+```bash
+git clone https://github.com/BrunoCogo19/hogwarts-php.git
+cd hogwarts-php
+
 - Execute com `php app.php` no terminal
